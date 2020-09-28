@@ -1,0 +1,20 @@
+{
+  "name": "webpage-fashion-bootstrap",
+  "version": "1.0.0",
+  "description": "landing page with bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonidas-I/webpage-fashion-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonidas-I/webpage-fashion-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Leonidas-I/webpage-fashion-bootstrap#readme"
+}
